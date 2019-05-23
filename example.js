@@ -1,4 +1,4 @@
 // Shorthand for $( document ).ready()
 $(function() {
-    console.log( "yes!" );
+    console.log( "change!" );
 });
